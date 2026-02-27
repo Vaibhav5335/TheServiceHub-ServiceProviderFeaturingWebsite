@@ -250,10 +250,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 💡 Final Note
-
 This project highlights the power of **React + Vite** in building fast, scalable, and modern web applications.
-
-A strong addition to your **frontend developer portfolio 🚀**
 
 ---
