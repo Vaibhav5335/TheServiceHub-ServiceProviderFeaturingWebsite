@@ -12,6 +12,10 @@ Built as a **portfolio-level project**, this application demonstrates core conce
 <p align="center">
   <img src="PreviewImg/1.png" width="400"/>
   <img src="PreviewImg/2.png" width="400"/>
+  <img src="PreviewImg/3.png" width="400"/>
+  <img src="PreviewImg/4.png" width="400"/>
+  <img src="PreviewImg/5.png" width="400"/>
+  <img src="PreviewImg/6.png" width="400"/>
 </p>
 
 ---
