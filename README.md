@@ -237,7 +237,7 @@ npm run build
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Vaibhav Sharma**
 
 * Frontend Developer
 * Passionate about building modern web applications
